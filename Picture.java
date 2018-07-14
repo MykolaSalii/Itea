@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 
 public class Picture extends JFrame {
 	public Picture() {
+		//change for git
 		super("Picture");
 		JPanel p1 = new JPanel();
 
